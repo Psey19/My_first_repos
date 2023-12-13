@@ -9,3 +9,5 @@ Add local text
 Message into new branch
 
 Добавил локальный конфликт
+
+WEB конфликт
